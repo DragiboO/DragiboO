@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hey, moi c'est Julien 👋
+
+#### 👨‍🎓 Actuellement en 2è année de Dev Web
+#### 🏢 A l'IIM Digital School à Paris
+#### 🚉 J'adore les transports en commun (c'est faux)
+#### 🧡 Mes passions
+>💻 Tapper sur des claviers plus ou moins fort 😉
+ >
+>🍻 Boire
+ >
+>🛌 Et surtout dormir
 
 <!--
 **DragiboO/DragiboO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
