@@ -1,4 +1,4 @@
-# Hey, moi c'est Julien 👋
+# Hey, moi c'est Julien 😏
 
 #### 👨‍🎓 Actuellement en 2è année de Dev Web
 #### 🏢 A l'IIM Digital School à Paris
